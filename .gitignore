@@ -1,0 +1,4 @@
+.DS_Store
+maildir
+*.csv
+*.mypy_cache
