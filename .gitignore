@@ -1,0 +1,4 @@
+.DS_Store
+lingspam_public
+*.csv
+*.mypy_cache
