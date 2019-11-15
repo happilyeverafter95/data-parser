@@ -31,4 +31,4 @@ class DataPipeline:
                              'label': labels})
 
     def extract_messages(self):
-        self.data.to_csv('extracted_messages.csv')
+        self.data.to_csv('messages.csv', index=False)
